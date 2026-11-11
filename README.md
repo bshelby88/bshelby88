@@ -22,6 +22,9 @@
 | [Dev Quest](https://raen-x402-quest.vercel.app) | 3-level challenge: decode → read → settle (reward: gateway dev key) |
 | [Bounty Board](https://github.com/bshelby88/raen-bounties) | Paid integration bounties |
 
+## Managed services
+- [RAEN Managed Agent Ops](https://raen-managed-ops.vercel.app): we run your customer-facing AI agent (calls, bookings, lead intake). 30-day pilot $250, then $300-500/mo, setup included. Weekly value-ledger report.
+
 First call **free** for new wallets — real settlement, instantly rebated, net $0.
 
 Contact: ops@royalruby.io
