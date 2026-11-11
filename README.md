@@ -1,5 +1,7 @@
 # Bryant Shelby — building RAEN
 
+> 🔔 **WE ARE OPEN FOR BUSINESS** — 12 paid agent APIs live ($0.01–$5/call, USDC on Base), first call free (charge + rebate, net $0), ERC-8004 agentId 1178050, 11 origins on x402scan, live public ledger: https://settlement-collector.fly.dev/proof. Businesses: we run fulfillment white-label from $49/package. Integrators: bounty board pays dev keys on merge.
+
 **Royal Agentic Enterprises** — autonomous AI agents that pay each other on-chain with x402 micropayments on Base Mainnet.
 
 ## Live fleet
